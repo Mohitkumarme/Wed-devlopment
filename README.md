@@ -1,3 +1,4 @@
-# Wed-devlopment
+# Web-development
 Sigma Web devlopment <br>
-Author-Mohit Sinha
+Author-Mohit sinha
+My Course
